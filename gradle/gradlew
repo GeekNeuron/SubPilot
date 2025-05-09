@@ -1,0 +1,3 @@
+#!/bin/sh
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk
+exec ./gradle/wrapper/gradle-wrapper.jar "$@"
