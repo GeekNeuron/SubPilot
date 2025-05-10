@@ -68,4 +68,4 @@ We welcome pull requests and issues:
 ---
 
 ## License
-MIT License © 2025 Docishoon
+MIT License © 2025 GeekNeuron
