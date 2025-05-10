@@ -1,1 +1,7 @@
-<resources> <style name="Theme.SubPilot" ... /> </resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.SubPilot" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_40</item>
+        <item name="colorSecondary">@color/pink_40</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorSurfaceVariant</item>
+    </style>
+</resources>
