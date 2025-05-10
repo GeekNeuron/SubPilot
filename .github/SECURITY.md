@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in SubPilot, please contact us directly.
 
-- Email: `docishoon@gmail.com`
+- Telegram: `https://t.me/GeekNeuron`
 - GitHub: Open an issue and mark it with `security`
 
 We appreciate responsible disclosure and will work with you to address the issue promptly.
