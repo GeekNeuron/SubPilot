@@ -1,11 +1,11 @@
 # SubPilot
 
-![Build](https://github.com/docishoon/SubPilot/actions/workflows/android.yml/badge.svg)
-![Lint](https://github.com/docishoon/SubPilot/actions/workflows/lint.yml/badge.svg)
-![Tests](https://github.com/docishoon/SubPilot/actions/workflows/test.yml/badge.svg)
-![License](https://img.shields.io/github/license/docishoon/SubPilot)
+![Build](https://github.com/GeekNeuron/SubPilot/actions/workflows/android.yml/badge.svg)
+![Lint](https://github.com/GeekNeuron/SubPilot/actions/workflows/lint.yml/badge.svg)
+![Tests](https://github.com/GeekNeuron/SubPilot/actions/workflows/test.yml/badge.svg)
+![License](https://img.shields.io/github/license/GeekNeuron/SubPilot)
 ![Platform](https://img.shields.io/badge/platform-Android-blue)
-![Release](https://img.shields.io/github/v/release/docishoon/SubPilot?include_prereleases)
+![Release](https://img.shields.io/github/v/release/GeekNeuron/SubPilot?include_prereleases)
 
 ---
 
@@ -35,7 +35,7 @@ It supports `.srt` and `.ass` formats, video syncing, dual-language side-by-side
 
 ### Clone & Open
 ```bash
-git clone https://github.com/docishoon/SubPilot.git
+git clone https://github.com/GeekNeuron/SubPilot.git
 cd SubPilot
 ```
 Open in Android Studio → Sync Gradle → Run on emulator/device
@@ -51,7 +51,7 @@ Output: `app/build/outputs/apk/debug/app-debug.apk`
 ---
 
 ## GitHub Releases
-Visit [Releases](https://github.com/docishoon/SubPilot/releases) to download latest APK.
+Visit [Releases](https://github.com/GeekNeuron/SubPilot/releases) to download latest APK.
 
 ---
 
