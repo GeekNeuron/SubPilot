@@ -1,1 +1,11 @@
-<resources> <color name="purple_500">#6200EE</color> ... </resources>
+<resources>
+    <color name="purple_80">#D0BCFF</color>
+    <color name="purple_40">#6650a4</color>
+    <color name="pink_80">#EFB8C8</color>
+    <color name="pink_40">#7D5260</color>
+    <color name="teal_80">#66fff3</color>
+    <color name="teal_40">#00796B</color>
+
+    <!-- Icon BG color -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
